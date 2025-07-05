@@ -3,7 +3,11 @@ yay -S --noconfirm --needed \
   fcitx5 fcitx5-gtk fcitx5-qt fcitx5-configtool \
   wl-clip-persist clipse-bin \
   nautilus sushi ffmpegthumbnailer gnome-calculator \
-  1password-beta 1password-cli \
+  # 1password-beta 1password-cli \
+  bitwarden-bin bitwarden-cli-git \
+  zen-browser-bin \
   chromium mpv \
   evince imv \
-  localsend-bin
+  localsend-bin \
+  visual-studio-code-bin \
+  qbittorrent

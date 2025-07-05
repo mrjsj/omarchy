@@ -3,4 +3,11 @@ yay -S --noconfirm --needed \
   imagemagick \
   mariadb-libs postgresql-libs \
   github-cli \
-  lazygit lazydocker-bin
+  python312 \
+  python-uv \
+  duckdb \
+  bruno-bin \
+  storageexplorer \
+  dotnet-runtime dotnet-sdk
+  
+  #lazygit lazydocker-bin
